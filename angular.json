@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "mafeDesign"
+    }
+  },
+  "defaultProject": "mafeDesign",
+  "cli": {
+    "analytics": false
+  }
 }
